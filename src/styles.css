@@ -107,7 +107,7 @@ header .container {
 }
 
 .links a {
-  color: var(--lightTwo);
+  color: var(--darkTwo);
   margin-left: 4.5rem;
   display: inline-block;
   transition: 0.3s;
@@ -200,7 +200,7 @@ header .container {
 }
 
 .text {
-  color: var(--lightOne);
+  color: var(--darkTwo);
   font-size: 1.1rem;
   margin: 1.9rem 0 2.5rem;
   max-width: 600px;
